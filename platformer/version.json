@@ -1,14 +1,14 @@
 {
     "alphaTrack": {
-        "version_code": 1,
-        "version_name": "1.0.0-alpha001"
+        "versionCode": 1,
+        "versionName": "1.0.0-alpha001"
     },
     "betaTrack": {
-        "version_code": 0,
-        "version_name": "null"
+        "versionCode": 0,
+        "versionName": ""
     },
     "releaseTrack": {
-        "version_code": 0,
-        "version_name": "null"
+        "versionCode": 0,
+        "versionName": ""
     }
 }
